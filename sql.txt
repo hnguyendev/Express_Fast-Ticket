@@ -1,0 +1,1 @@
+INSERT INTO `fast_ticket`.`Stations` (`name`, `address`, `province`, `createdAt`, `updatedAt`) VALUES ('XDD', '123 xdd', 'LA', '2024-07-27 00:00:00', '2024-07-27 00:00:00');
